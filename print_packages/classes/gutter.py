@@ -1,6 +1,6 @@
 class Gutter:
 
-    def __init__(self, width=0.125, length=0.125):
+    def __init__(self, width, length):
         self.width = width
         self.length = length
 

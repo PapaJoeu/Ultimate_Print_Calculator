@@ -1,5 +1,5 @@
 class Sheet:
-    def __init__(self, width=12, length=18):
+    def __init__(self, width, length):
         self.width = width
         self.length = length
 

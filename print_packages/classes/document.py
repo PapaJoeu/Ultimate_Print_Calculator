@@ -1,6 +1,6 @@
 class Document:
 
-    def __init__(self, width=5, length=7):
+    def __init__(self, width, length):
         self.width = width
         self.length = length
 
